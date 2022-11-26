@@ -1,0 +1,1 @@
+sc delete "Mono-Sample-Windows-Service"
